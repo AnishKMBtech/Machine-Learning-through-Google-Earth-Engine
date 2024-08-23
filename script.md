@@ -1,4 +1,5 @@
 # Machine-Learning-through-Google-Earth-Engine
+# By Anish K M
 # Land Cover Classification using Sentinel-2 Imagery
 
 # This project uses Google Earth Engine to perform land cover classification on Sentinel-2 imagery for the year 2023.
