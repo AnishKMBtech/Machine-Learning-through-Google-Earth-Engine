@@ -42,6 +42,7 @@ Working on this project provided me with valuable insights into how various land
 ## Note
 
 This project represents my initial exploration into applying machine learning techniques to real-world satellite data. It reflects my current understanding and is part of my ongoing learning journey.
+The accuracy will be low since the project is just a prototype
 
 ## Links
 
