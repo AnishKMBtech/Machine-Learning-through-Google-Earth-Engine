@@ -1,3 +1,4 @@
+// Release by Anish K M
 // Load Sentinel-2 image collection.
 var image = imageCollection.filterDate('2023-01-01', '2023-12-31').filterBounds(ddn).median();
 // Define a region of interest.
